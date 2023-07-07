@@ -1,0 +1,45 @@
+body {
+	padding: 0px;
+	margin: 10px;
+	min-width: 300px;
+	font-family: Arial,sans-serif,serif;
+	text-align: center;
+	min-width: 350px;
+}
+
+input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	border: 0.5px;
+	border-radius: 10px;
+	border-color: black;
+	border-style: solid;
+}
+
+button {
+	padding: 10px 40px;
+	margin-top: 5px;
+	margin-right: 10px;
+	border: 0.5px;
+	border-radius: 10px;
+	background: rgb(4, 192, 249);
+	font-weight: bold;
+	border-color: black;
+	border-style: solid;
+}
+
+ul {
+	text-align: left;
+	padding-left: px;
+	margin-top: 20px;
+}
+
+li {
+	margin-top: 5px;
+}
+
+a {
+	color: rgb(4, 192, 249);
+}
